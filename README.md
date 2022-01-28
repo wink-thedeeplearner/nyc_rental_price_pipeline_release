@@ -7,7 +7,7 @@ You are working for a property management company renting rooms and properties f
 - `Requirements`: Your company receives new data in bulk every week. The model needs to be retrained with the same cadence, necessitating an end-to-end pipeline that can be reused.
 
 For in-depth explanations and step-by-step rationales on building the ML Pipeline before this release, refer to the following repo:
-`https://github.com/wink-thedeeplearner/udacity_ml_devops/tree/main/project_2_reproducible_model_workflow/MLPipeline_NYC_Rental_Price_Predictor`
+https://github.com/wink-thedeeplearner/udacity_ml_devops/tree/main/project_2_reproducible_model_workflow/MLPipeline_NYC_Rental_Price_Predictor
 
 ## Instructions 
 Run the release using mlflow without any other pre-requisite. 
